@@ -1,0 +1,529 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/file_dylan/src/Server.java" timestamp="1524373016675">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Views/home.fxml" timestamp="1523437099092">
+        <mark key="[" line="10" column="361" />
+        <mark key="]" line="10" column="362" />
+        <mark key="." line="10" column="362" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Views/enterPhone.fxml" timestamp="1523429580240">
+        <mark key="[" line="23" column="104" />
+        <mark key="]" line="23" column="104" />
+        <mark key="." line="23" column="104" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Model/SFile.java" timestamp="1523702165806">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="45" />
+        <mark key="^" line="19" column="45" />
+        <mark key="." line="19" column="45" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/homeController.java" timestamp="1523802727712">
+        <mark key="'" line="38" column="53" />
+        <mark key="[" line="38" column="68" />
+        <mark key="]" line="38" column="72" />
+        <mark key="^" line="38" column="72" />
+        <mark key="." line="38" column="72" />
+      </file>
+      <file name="$USER_HOME$/Desktop/new_Messanger/src/sample/controllers/switchAccountController.java" timestamp="1522138961462">
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="49" column="13" />
+        <mark key="^" line="49" column="13" />
+        <mark key="." line="49" column="13" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/lab09/src/FileClient.java" timestamp="1523361183702">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="F:/GoogleDrive/Computer/javaFx/udemy_tutorial/1. Design Login screen/4. slided_login/Slided Login/src/sample/Controller.java" timestamp="1523365095191">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/lab07/src/FileServer.java" timestamp="1521530634867">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/lab05/src/SimServer.java" timestamp="1523359574385">
+        <mark key="[" line="14" column="71" />
+        <mark key="]" line="15" column="65" />
+        <mark key="." line="15" column="65" />
+        <mark key="^" line="15" column="65" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LogReader/src/MessageLogger.java" timestamp="1517751079199">
+        <mark key="[" line="32" column="60" />
+        <mark key="]" line="33" column="16" />
+        <mark key="^" line="33" column="16" />
+        <mark key="." line="33" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/serverMainController.java" timestamp="1523630349605">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="20" column="67" />
+        <mark key="^" line="20" column="67" />
+        <mark key="." line="20" column="67" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/Controller.java" timestamp="1523372898910">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+      </file>
+      <file name="F:/GoogleDrive/Computer/javaFx/udemy_tutorial/1. Design Login screen/3. portrait_login/portrait signin/src/sample/Controller.java" timestamp="1522327102779">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="F:/GoogleDrive/Computer/javaFx/lab/src/RandNumServer.java" timestamp="1522941008468">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Main/Main.java" timestamp="1524228867258">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AddressApp/src/address/TestMain.java" timestamp="1521625189123">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="54" />
+        <mark key="^" line="4" column="54" />
+        <mark key="." line="4" column="54" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Messanger/src/sample/controllers/switchAccountController.java" timestamp="1522072865019">
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="36" column="36" />
+        <mark key="^" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/serverSetupController.java" timestamp="1524229152008">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="121" column="24" />
+        <mark key="]" line="122" column="15" />
+        <mark key="." line="122" column="15" />
+        <mark key="^" line="122" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/LogReader/src/LogReader.java" timestamp="1517752411111">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="21" column="29" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AddressApp/src/address/view/PersonOverviewController.java" timestamp="1521813896063">
+        <mark key="[" line="120" column="3" />
+        <mark key="]" line="158" column="2" />
+        <mark key="." line="158" column="2" />
+        <mark key="^" line="158" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Messanger/src/sample/controllers/Controller.java" timestamp="1522075697629">
+        <mark key="[" line="35" column="49" />
+        <mark key="]" line="40" column="35" />
+        <mark key="^" line="40" column="35" />
+        <mark key="." line="40" column="35" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/lab05/src/SimClient.java" timestamp="1523359852713">
+        <mark key="[" line="8" column="59" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/connectionController.java" timestamp="1523432670589">
+        <mark key="[" line="103" column="2" />
+        <mark key="]" line="103" column="2" />
+        <mark key="." line="103" column="2" />
+      </file>
+      <file name="F:/GoogleDrive/Computer/javaFx/Messanger/src/sample/main/Main.java" timestamp="1523371708906">
+        <mark key="[" line="34" column="94" />
+      </file>
+      <file name="F:/GoogleDrive/Computer/javaFx/untitled/src/sample/Main.java" timestamp="1522073129973">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+      </file>
+      <file name="F:/GoogleDrive/Computer/javaFx/udemy_tutorial/1. Design Login screen/4. slided_login/Slided Login/src/sample/sample.fxml" timestamp="1523365017346">
+        <mark key="[" line="20" column="55" />
+        <mark key="]" line="20" column="58" />
+        <mark key="." line="20" column="58" />
+      </file>
+      <file name="$USER_HOME$/Desktop/untitled/src/test.java" timestamp="1523790778238">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+        <mark key="^" line="10" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" timestamp="1524232918336">
+        <mark key="'" line="78" column="57" />
+        <mark key="[" line="89" column="35" />
+        <mark key="]" line="78" column="57" />
+        <mark key="." line="78" column="57" />
+        <mark key="^" line="78" column="57" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/lab06/src/TimeClient.java" timestamp="1521214256362">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientMainController.java" timestamp="1524232968826">
+        <mark key="[" line="170" column="46" />
+        <mark key="]" line="185" column="70" />
+        <mark key="." line="185" column="70" />
+        <mark key="^" line="185" column="70" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/lab09/src/FileServer.java" timestamp="1523361297311">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="F:/GoogleDrive/Computer/javaFx/udemy_tutorial/1. Design Login screen/4. slided_login/Slided Login/src/sample/Main.java" timestamp="1523365804193">
+        <mark key="[" line="18" column="28" />
+      </file>
+      <file name="F:/GoogleDrive/Computer/javaFx/udemy_tutorial/1. Design Login screen/5. dark_login/Dark login/src/sample/Main.java" timestamp="1528804730941">
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AddressApp/src/address/util/DateUtil.java" timestamp="1521810146440">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/application/main/Main.java" timestamp="1523364511560">
+        <mark key="[" line="14" column="65" />
+        <mark key="]" line="14" column="82" />
+        <mark key="^" line="14" column="82" />
+        <mark key="." line="14" column="82" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1524233319705">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientSetupController.java" timestamp="1523802716702">
+        <mark key="'" line="48" column="53" />
+        <mark key="[" line="48" column="68" />
+        <mark key="]" line="48" column="72" />
+        <mark key="." line="48" column="72" />
+        <mark key="^" line="48" column="72" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" timestamp="1524235147765">
+        <mark key="'" line="69" column="4" />
+        <mark key="[" line="203" column="30" />
+        <mark key="]" line="203" column="27" />
+        <mark key="." line="203" column="27" />
+        <mark key="^" line="203" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/file_dylan/src/Client.java" timestamp="1524494409843">
+        <mark key="'" line="130" column="54" />
+        <mark key="[" line="248" column="51" />
+        <mark key="]" line="248" column="63" />
+        <mark key="^" line="248" column="63" />
+        <mark key="." line="248" column="63" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/CommandPrompt.java" timestamp="1523793460807">
+        <mark key="'" line="77" column="6" />
+        <mark key="[" line="88" column="51" />
+        <mark key="]" line="88" column="59" />
+        <mark key="^" line="88" column="59" />
+        <mark key="." line="88" column="59" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/controller.java" timestamp="1523372871428">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AddressApp/src/controller/MainApp.java" timestamp="1521558720899">
+        <mark key="[" line="43" column="3" />
+        <mark key="]" line="71" column="2" />
+        <mark key="^" line="71" column="2" />
+        <mark key="." line="71" column="2" />
+      </file>
+      <file name="$USER_HOME$/Desktop/new_Messanger/src/sample/controllers/Controller.java" timestamp="1522139007932">
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="40" column="40" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/file_dylan/src/test.java" timestamp="1524368438337">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="90" />
+        <mark key="." line="10" column="90" />
+        <mark key="^" line="10" column="90" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/AddressApp/src/address/MainApp.java" timestamp="1522073346333">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/application/controllers/Controller.java" timestamp="1523364426666">
+        <mark key="[" line="27" column="59" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/lab07/src/FileClient.java" timestamp="1521530843728">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="55" />
+      </file>
+      <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/mainLayoutController.java" timestamp="1523802732565">
+        <mark key="'" line="41" column="50" />
+        <mark key="[" line="41" column="65" />
+        <mark key="]" line="41" column="69" />
+        <mark key="." line="41" column="69" />
+        <mark key="^" line="41" column="69" />
+      </file>
+      <file name="F:/GoogleDrive/Computer/javaFx/student-fx/src/studentfx/Main.java" timestamp="1521814993437">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="65" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="F:/GoogleDrive/Computer/javaFx/Messanger/src/sample/views/home.fxml" timestamp="1523758244227">
+        <mark key="[" line="110" column="64" />
+        <mark key="]" line="110" column="50" />
+        <mark key="." line="110" column="50" />
+        <mark key="^" line="110" column="50" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/Playground/src/Playground.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/CommandPrompt/src/CommandPrompt.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/CommandPrompt/src/CommandPrompt.java" />
+      <jump line="8" column="7" filename="$USER_HOME$/IdeaProjects/CommandPrompt/src/CommandPrompt.java" />
+      <jump line="64" column="29" filename="$USER_HOME$/IdeaProjects/CommandPrompt/src/CommandPrompt.java" />
+      <jump line="149" column="0" filename="$USER_HOME$/IdeaProjects/AddressApp/src/address/view/PersonEditDialogController.java" />
+      <jump line="27" column="2" filename="$USER_HOME$/IdeaProjects/AddressApp/src/address/view/PersonEditDialogController.java" />
+      <jump line="40" column="35" filename="$USER_HOME$/IdeaProjects/AddressApp/src/address/view/PersonEditDialogController.java" />
+      <jump line="41" column="23" filename="$USER_HOME$/IdeaProjects/AddressApp/src/address/view/PersonEditDialogController.java" />
+      <jump line="80" column="6" filename="$USER_HOME$/IdeaProjects/AddressApp/src/address/view/PersonEditDialogController.java" />
+      <jump line="89" column="4" filename="$USER_HOME$/IdeaProjects/AddressApp/src/address/view/PersonEditDialogController.java" />
+      <jump line="138" column="22" filename="$USER_HOME$/IdeaProjects/AddressApp/src/address/view/PersonEditDialogController.java" />
+      <jump line="27" column="141" filename="F:/GoogleDrive/Computer/javaFx/udemy_tutorial/1. Design Login screen/3. portrait_login/portrait signin/src/sample/sample.fxml" />
+      <jump line="40" column="13" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientSetupController.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientSetupController.java" />
+      <jump line="61" column="4" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientSetupController.java" />
+      <jump line="83" column="17" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientSetupController.java" />
+      <jump line="10" column="23" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientSetupController.java" />
+      <jump line="11" column="23" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientSetupController.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="33" column="25" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="35" column="6" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="36" column="6" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="37" column="6" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="46" column="11" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="61" column="8" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="113" column="29" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="114" column="4" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="60" column="10" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="97" column="6" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="110" column="4" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="135" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="119" column="51" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="113" column="22" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/CommandPrompt.java" />
+      <jump line="36" column="6" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/CommandPrompt.java" />
+      <jump line="42" column="19" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="148" column="12" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="154" column="12" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="165" column="25" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="124" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="146" column="10" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="147" column="12" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="153" column="12" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="164" column="25" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="103" column="19" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" />
+      <jump line="130" column="4" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" />
+      <jump line="131" column="4" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" />
+      <jump line="19" column="6" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" />
+      <jump line="92" column="18" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/CommandPrompt.java" />
+      <jump line="108" column="10" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="51" column="4" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="123" column="34" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" />
+      <jump line="191" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="112" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="132" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="159" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="120" column="33" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" />
+      <jump line="32" column="25" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/CommandPrompt.java" />
+      <jump line="43" column="6" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/CommandPrompt.java" />
+      <jump line="47" column="6" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/CommandPrompt.java" />
+      <jump line="66" column="6" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/CommandPrompt.java" />
+      <jump line="77" column="6" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/CommandPrompt.java" />
+      <jump line="131" column="18" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientMainController.java" />
+      <jump line="54" column="65" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="49" column="4" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileClient.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Main/Main.java" />
+      <jump line="114" column="58" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientSetupController.java" />
+      <jump line="121" column="56" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientSetupController.java" />
+      <jump line="48" column="53" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/clientSetupController.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/homeController.java" />
+      <jump line="22" column="53" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/homeController.java" />
+      <jump line="38" column="53" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/homeController.java" />
+      <jump line="41" column="50" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/mainLayoutController.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Controllers/serverSetupController.java" />
+      <jump line="148" column="0" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" />
+      <jump line="78" column="57" filename="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Util/FileServer.java" />
+      <jump line="18" column="17" filename="$USER_HOME$/Desktop/file_dylan/src/Client.java" />
+      <jump line="210" column="2" filename="$USER_HOME$/Desktop/file_dylan/src/Client.java" />
+      <jump line="141" column="9" filename="$USER_HOME$/Desktop/file_dylan/src/Server.java" />
+      <jump line="143" column="11" filename="$USER_HOME$/Desktop/file_dylan/src/Server.java" />
+      <jump line="148" column="0" filename="$USER_HOME$/Desktop/file_dylan/src/Server.java" />
+      <jump line="183" column="7" filename="$USER_HOME$/Desktop/file_dylan/src/Server.java" />
+      <jump line="204" column="0" filename="$USER_HOME$/Desktop/file_dylan/src/Server.java" />
+      <jump line="26" column="6" filename="$USER_HOME$/Desktop/file_dylan/src/Server.java" />
+      <jump line="87" column="4" filename="$USER_HOME$/Desktop/file_dylan/src/Server.java" />
+      <jump line="88" column="34" filename="$USER_HOME$/Desktop/file_dylan/src/Server.java" />
+      <jump line="93" column="4" filename="$USER_HOME$/Desktop/file_dylan/src/Server.java" />
+      <jump line="94" column="34" filename="$USER_HOME$/Desktop/file_dylan/src/Server.java" />
+      <jump line="137" column="9" filename="$USER_HOME$/Desktop/file_dylan/src/Server.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/Desktop/file_dylan/src/Client.java" />
+      <jump line="130" column="54" filename="$USER_HOME$/Desktop/file_dylan/src/Client.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZvbGRlckZpbGVzW2ldID0gcmVsYXRpdmVQYXRoLnJlbGF0aXZpemUoUGF0aHMuZ2V0KHJlbGF0aXZlZmlsZW5hbWUsIGZpbGVzW2ldKSkudG9TdHJpbmcoKTsK</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text>please try again</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZvbGRlckZpbGVzW2ldID0gcmVsYXRpdmVQYXRoLnJlbGF0aXZpemUoUGF0aHMuZ2V0KHJlbGF0aXZlZmlsZW5hbWUsIGZpbGVzW2ldKSkudG9TdHJpbmcoKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gcmVjZWl2ZUZpbGUoaW4sIFBhdGhzLmdldChyZWxhdGl2ZVBhdGgudG9TdHJpbmcoKSwgcmVsYXRpdmVmaWxlbmFtZSkudG9TdHJpbmcoKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZmlsZXNbaV06ICIgKyBmaWxlc1tpXSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIGZvbGRlckZpbGVzW2ldID0gUGF0aHMuZ2V0KHJlbGF0aXZlZmlsZW5hbWUsIGZpbGVzW2ldKS50b1N0cmluZygpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBTdHJpbmcgcHcgPSAiMTIzIjsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHVwbG9hZERpciA9IG5ldyBGaWxlKCJGOlxcQWxsIERhdGEiKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>nohlsearch</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>please try again</last-search>
+      <last-offset />
+      <last-pattern>please try again</last-pattern>
+      <last-replace />
+      <last-substitute>\\</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>the result</entry>
+        <entry>the</entry>
+        <entry>sout</entry>
+        <entry>out</entry>
+        <entry>system</entry>
+        <entry>receive</entry>
+        <entry>filename</entry>
+        <entry>chdir</entry>
+        <entry>change</entry>
+        <entry>.close</entry>
+        <entry>split</entry>
+        <entry>getSe</entry>
+        <entry>getResource</entry>
+        <entry>45</entry>
+        <entry>css</entry>
+        <entry>\\</entry>
+        <entry>setP</entry>
+        <entry>Sys</entry>
+        <entry>System</entry>
+        <entry>please try again</entry>
+      </history-search>
+      <history-cmd>
+        <entry>call NumberToggle()</entry>
+        <entry>w</entry>
+        <entry>14</entry>
+        <entry>22</entry>
+        <entry>s/serverMainPane/connectingPane</entry>
+        <entry>%s/serverMainPane/connectingPane</entry>
+        <entry>47</entry>
+        <entry>.,+30s/filename/filepath</entry>
+        <entry>45</entry>
+        <entry>%s/\\//</entry>
+        <entry>nohlsearch</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
