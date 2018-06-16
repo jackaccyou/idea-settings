@@ -1,9 +1,0 @@
-<application>
-  <component name="CodeStyleSchemesUIConfiguration">
-    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:F:/GoogleDrive/Windows10_Setup/Development/4.Java/Intellij/intellij-java-google-style.xml" />
-  </component>
-  <component name="JavaFxSettings">
-    <option name="pathToSceneBuilder" value="$USER_HOME$/AppData/Local/SceneBuilder/SceneBuilder.exe" />
-    <option name="myPathToSceneBuilder" value="$USER_HOME$/AppData/Local/SceneBuilder/SceneBuilder.exe" />
-  </component>
-</application>
