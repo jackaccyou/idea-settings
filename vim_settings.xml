@@ -19,6 +19,12 @@
         <mark key="]" line="23" column="104" />
         <mark key="." line="23" column="104" />
       </file>
+      <file name="$USER_HOME$/Desktop/testing/src/Testing.java" timestamp="1538196077365">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+      </file>
       <file name="$USER_HOME$/Desktop/FileSharingApplication/src/sample/Model/SFile.java" timestamp="1523702165806">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="45" />
@@ -433,7 +439,7 @@
         <text encoding="base64">ICAgIHVwbG9hZERpciA9IG5ldyBGaWxlKCJGOlxcQWxsIERhdGEiKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -470,7 +476,6 @@
       </history-search>
       <history-cmd>
         <entry>call NumberToggle()</entry>
-        <entry>w</entry>
         <entry>14</entry>
         <entry>22</entry>
         <entry>s/serverMainPane/connectingPane</entry>
@@ -480,6 +485,7 @@
         <entry>45</entry>
         <entry>%s/\\//</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
