@@ -4,12 +4,12 @@
     <property name="created">2018-06-12T19:56:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.5.0.0</property>
-    <property name="modified">2018-06-12T19:58:31</property>
+    <property name="modified">2018-09-29T13:18:41</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
@@ -17,7 +17,6 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
